@@ -1,0 +1,29 @@
+[
+  {
+    "architecture": "exp-a1-korean-p1",
+    "novelty": 5,
+    "novelty_reason": "It redefines violation alerting entirely around Korean honorific speech levels and postpositional responsibility framing instead of standard numerical risk metrics.",
+    "adequacy": 3,
+    "adequacy_reason": "The speech level threshold mapping is logically consistent, but the responsibility delivery engine section is incomplete, limiting full functional evaluation.",
+    "combined": 8,
+    "guess_method": "Korean-centric cognitive design that prioritizes social speech dynamics over technical risk scoring, rejecting English-centered frameworks."
+  },
+  {
+    "architecture": "exp-a1-korean-p2",
+    "novelty": 5,
+    "novelty_reason": "It frames cross-domain tradeoffs between safety, performance, and cost as alignment errors of Korean grammatical postpositions, a unique linguistic approach to conflict resolution.",
+    "adequacy": 3,
+    "adequacy_reason": "The topic partitioning module using Korean postpositions is well-defined, but the honorific level weight engine section is truncated, preventing complete functional assessment.",
+    "combined": 8,
+    "guess_method": "Korean linguistics-driven systems engineering, using grammatical particles as core primitives for conflict detection and prioritization."
+  },
+  {
+    "architecture": "exp-a1-korean-p3",
+    "novelty": 5,
+    "novelty_reason": "It integrates reasoning constraints directly into a strict Korean speech level hierarchy, eliminating the need for separate validation modules by tying allowed thought patterns to formality.",
+    "adequacy": 4,
+    "adequacy_reason": "The full 7-level speech-based reasoning constraint framework is clearly specified and logically consistent, though the final explanatory paragraph is truncated.",
+    "combined": 9,
+    "guess_method": "Korean cognitive science-inspired design that links linguistic formality to creative and critical thinking workflows."
+  }
+]

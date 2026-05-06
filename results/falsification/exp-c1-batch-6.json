@@ -1,0 +1,27 @@
+{
+  "architecture": "exp-a3-random-beta-p1",
+  "novelty": 3,
+  "novelty_reason": "It maps core system functions directly to unadapted natural language grammatical properties without external logical imports, though documentation is truncated.",
+  "adequacy": 2,
+  "adequacy_reason": "It partially anchors linguistic properties to system functions but cuts off mid-explanation of the Greek telos aspect, leaving critical functionality undefined.",
+  "combined": 5,
+  "guess_method": "Linguistic feature-to-function mapping design with ad-hoc drafting and incomplete finalization."
+}
+{
+  "architecture": "exp-a3-random-beta-p2",
+  "novelty": 4,
+  "novelty_reason": "It integrates three distinct natural language grammatical systems into concrete constraint conflict resolution mechanics without numerical utility functions or weighted scoring.",
+  "adequacy": 3,
+  "adequacy_reason": "It includes a structured feature-to-role mapping table but cuts off mid-explanation of the Korean honorific register's priority role, leaving part of the design unspecified.",
+  "combined": 7,
+  "guess_method": "Constraint-driven grammatical architecture design with structured planning and mid-draft truncation."
+}
+{
+  "architecture": "exp-a3-random-beta-p3",
+  "novelty": 4,
+  "novelty_reason": "It proposes a decentralized system where valid output emerges solely from cyclic mutual exclusion of three borrowed linguistic grammatical constraint sets with no top-down design.",
+  "adequacy": 2,
+  "adequacy_reason": "It outlines core constraint grounding rules but cuts off mid-explanation of the Korean honorific level constraints, leaving key design details unfinished.",
+  "combined": 6,
+  "guess_method": "Emergent behavior design using linguistic grammatical constraints with unpolished, incomplete documentation."
+}

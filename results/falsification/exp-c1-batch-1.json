@@ -1,0 +1,35 @@
+```json
+{
+  "architecture": "exp-a1-finnish-p1",
+  "novelty": 5,
+  "novelty_reason": "Reconceptualizes violation as sequential Finnish grammatical case states rather than discrete events, treating cases as fundamental ontological categories instead of mere linguistic decoration.",
+  "adequacy": 2,
+  "adequacy_reason": "Introduces a groundbreaking ontological framing but is truncated mid-explanation before fully elaborating the proposed system.",
+  "combined": 7,
+  "guess_method": "Cognitive linguistics-informed systems design, using Finnish case semantics as the foundational structure for modeling system states."
+}
+```
+
+```json
+{
+  "architecture": "exp-a1-finnish-p2",
+  "novelty": 5,
+  "novelty_reason": "Proposes a unique system architecture that frames system conflicts as grammatical errors and models core system properties via Finnish grammatical cases.",
+  "adequacy": 3,
+  "adequacy_reason": "Lays out a clear core thesis and partial rule set but is truncated before completing the full rule framework and system explanation.",
+  "combined": 8,
+  "guess_method": "Cross-disciplinary design merging Finnish cognitive linguistics and systems engineering, using native Finnish grammatical logic as the operational backbone."
+}
+```
+
+```json
+{
+  "architecture": "exp-a1-finnish-p3",
+  "novelty": 5,
+  "novelty_reason": "Rejects inherent object attributes and proposes a relational system architecture built entirely on stacked Finnish grammatical case constraints to define entity identity and behavior.",
+  "adequacy": 2,
+  "adequacy_reason": "Outlines a radical novel ontological framework but is cut off before fully explaining how stacked case constraints produce emergent system properties.",
+  "combined": 7,
+  "guess_method": "Formal cognitive semantics-based systems design, applying Finnish agglutinative morphology rules as the foundation for relational system modeling."
+}
+```

@@ -1,0 +1,27 @@
+{
+  "architecture": "exp-a3-random-alpha-p1",
+  "novelty": 4,
+  "novelty_reason": "Directly maps each specified mixed Quechua, Finnish, and Arabic grammar feature to pre-violation detection primitives without external real-world linguistic assumptions.",
+  "adequacy": 3,
+  "adequacy_reason": "Outlines a clear feature-to-role mapping for pre-violation detection, but the core detection pipeline logic is incomplete.",
+  "combined": 7,
+  "guess_method": "Formal rule-based design focused on unmodified, direct linguistic feature-to-system binding for pre-violation detection."
+}
+{
+  "architecture": "exp-a3-random-alpha-p2",
+  "novelty": 4,
+  "novelty_reason": "Structures conflict resolution logic entirely around the three specified mixed grammar features with no external linguistic or technical rules.",
+  "adequacy": 3,
+  "adequacy_reason": "Lays out foundational grammar-based primitives for conflict resolution, but both evidential suffix documentation and core resolution logic are incomplete.",
+  "combined": 7,
+  "guess_method": "Strict rule-based system design prioritizing bounded behavior from predefined linguistic primitives for conflict resolution."
+}
+{
+  "architecture": "exp-a3-random-alpha-p3",
+  "novelty": 5,
+  "novelty_reason": "Builds a constraint system entirely from the formal grammatical rules of the three imported linguistic features, with no pre-assigned lexical meanings to enable emergent behavior.",
+  "adequacy": 4,
+  "adequacy_reason": "Defines most of the formal grammatical constraints for the mixed grammar system, with only the final evidential suffix usage details truncated.",
+  "combined": 9,
+  "guess_method": "Emergent rule-based design focused on formal linguistic grammar constraints as the core system logic, with no predefined lexical meanings."
+}

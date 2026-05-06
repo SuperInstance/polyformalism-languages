@@ -1,0 +1,33 @@
+```json
+{
+  "architecture": "Wasi K'anchay (Casa de Luces de Aviso Temprano)",
+  "novelty": 5,
+  "novelty_reason": "It applies Quechua evidential grammatical markers as immutable core rules for a distributed early warning system with no central authority.",
+  "adequacy": 2,
+  "adequacy_reason": "The architecture’s description cuts off mid-explanation of the Hamp'atuy channel, leaving critical operational details incomplete.",
+  "combined": 7,
+  "guess_method": "Indigenous Quechua linguistic framing applied to distributed systems, prioritizing traceable direct perception as a trust foundation."
+}
+```
+```json
+{
+  "architecture": "Ñawpa Panka Sutin",
+  "novelty": 5,
+  "novelty_reason": "It creates a distributed decision framework centered entirely on non-negotiable evidential tagging to eliminate arbitrary trust weighting between claim types.",
+  "adequacy": 3,
+  "adequacy_reason": "The architecture defines a clear evidential tagging layer and discussion rule but is unfinished, lacking final steps for witness assembly and decision-making.",
+  "combined": 8,
+  "guess_method": "Quechua evidentiality as a core system design principle, focused on centering direct perceptual evidence in distributed governance."
+}
+```
+```json
+{
+  "architecture": "Yachay K'anchay",
+  "novelty": 5,
+  "novelty_reason": "It formalizes Quechua evidential enclitics as immutable system rules for a fully decentralized, peer-to-peer distributed architecture with no central control.",
+  "adequacy": 4,
+  "adequacy_reason": "The architecture outlines three complete, immutable core rules for evidential tagging and peer communication, with only minor final operational details left incomplete.",
+  "combined": 9,
+  "guess_method": "Linguistic anthropological framing using Quechua evidential systems to design a decentralized, trust-first distributed architecture."
+}
+```

@@ -1,0 +1,35 @@
+```json
+{
+  "architecture": "exp-a1-arabic-p1",
+  "novelty": 5,
+  "novelty_reason": "This architecture uniquely frames violation as a gradual pre-harm process using the Arabic triconsonantal root ع-ن-ص, a departure from Western framing of violation as a one-time completed event.",
+  "adequacy": 3,
+  "adequacy_reason": "It establishes a consistent linguistically grounded conceptual framework for modeling violation but does not present a full operational system architecture.",
+  "combined": 8,
+  "guess_method": "Linguistic morphological analysis of Arabic triconsonantal roots applied to systemic modeling of behavioral harm."
+}
+```
+
+```json
+{
+  "architecture": "exp-a1-arabic-p2",
+  "novelty": 5,
+  "novelty_reason": "This architecture reinterprets the Arabic triconsonantal root ص-ي-د to dismantle the Western false trilemma by framing security, cost, and performance as interconnected facets of a single resource allocation process.",
+  "adequacy": 2,
+  "adequacy_reason": "It presents a partial linguistic framework for reframing tradeoffs but is cut off mid-explanation before outlining a complete operational system.",
+  "combined": 7,
+  "guess_method": "Arabic morphological derivation analysis to challenge dominant Western engineering tradeoff models."
+}
+```
+
+```json
+{
+  "architecture": "exp-a1-arabic-p3",
+  "novelty": 5,
+  "novelty_reason": "This architecture redefines innovation as uncovering pre-existing meanings in Arabic triconsonantal roots rather than creating new concepts, and proposes a minimal two-constraint system design.",
+  "adequacy": 3,
+  "adequacy_reason": "It outlines a radical foundational principle and one of two required system constraints but does not fully detail the second constraint or full operational workflow.",
+  "combined": 8,
+  "guess_method": "Radical recontextualization of Arabic linguistic principles for general system design, prioritizing morphological rootedness over Western engineering paradigms."
+}
+```

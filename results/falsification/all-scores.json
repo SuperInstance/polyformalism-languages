@@ -1,0 +1,266 @@
+{
+  "a1-arabic-p1": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: The architecture redefines violation detection as a pre-violation trajectory based on Arabic root morphology, which is genuinely novel compared to threshold-based Western systems.\nADEQUACY: 2\nADEQUACY_REASON: The mapping from verb weights to detection stages is arbitrary and lacks empirical validation, making it non-actionable and ungeneralizable without a rigorous calibration framework."
+  },
+  "a1-arabic-p2": {
+    "novelty": 5.0,
+    "adequacy": 1.0,
+    "insight": 3.4,
+    "raw": "NOVELTY: 5\nNOVELTY_REASON: This architecture redefines the entire trade-off problem by grounding security, performance, and cost in a single Arabic root, rejecting Western compromise models entirely.\nADEQUACY: 1\nADEQUACY_REASON: The system is purely metaphorical and lacks any concrete algorithmic or engineering mechanism to translate the root-based abstraction into actionable, testable design decisions."
+  },
+  "a1-arabic-p3": {
+    "novelty": 5.0,
+    "adequacy": 1.0,
+    "insight": 3.4,
+    "raw": "NOVELTY: 5\nNOVELTY_REASON: This architecture redefines the problem by treating all possible meaning as latent in a fixed set of triliteral roots, with innovation reduced to generating new derivational patterns, which is a radical departure from any data-driven or semantic-first approach.\nADEQUACY: 1\nADEQUACY_REASON: The system is fundamentally inadequate because it provides no mechanism to validate that generated patterns produce meaningful or coherent words, and the claim that any Arabic speaker will instantly understand novel outputs is untestable and ignores linguistic drift, context, and ambiguity."
+  },
+  "a1-finnish-p1": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4  \nNOVELTY_REASON: This reframes violation detection through Finnish grammatical cases as ontological states, offering a genuinely non-English, pre-threshold failure model that is not just a metaphor but a structural redefinition of how systems can perceive constraint degradation.  \nADEQUACY: 2  \nADEQUACY_REASON: While philosophically intriguing, the framework lacks concrete operationalization\u2014no clear mapping from case states to measurable signals or algorithmic implementation, making it more poetic than actionable for real-world systems."
+  },
+  "a1-finnish-p2": {
+    "novelty": 5.0,
+    "adequacy": 1.0,
+    "insight": 3.4,
+    "raw": "NOVELTY: 5\nNOVELTY_REASON: This architecture redefines system design by replacing trade-off logic with a grammatical case system where conflict is always a labeling error, not a resource constraint.\nADEQUACY: 1\nADEQUACY_REASON: The framework is philosophically provocative but entirely non-actionable, offering no concrete mechanism to resolve real-world engineering conflicts like latency vs. safety."
+  },
+  "a1-finnish-p3": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: It redefines system architecture by replacing objects and rules with a purely relational, case-stacking model derived from Finnish grammar, which is a genuinely novel ontological shift.\nADEQUACY: 1\nADEQUACY_REASON: The architecture is incomplete (the list of 15 constraints cuts off), lacks any mechanism for implementation, and provides no way to validate, test, or apply the \"emergence\" it claims, making it non-actionable and not generalizable."
+  },
+  "a1-korean-p1": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: Mapping alert severity to Korean honorifics is a culturally novel interface concept, but the underlying idea of tailoring alerts to social context is well-known in HCI and risk communication research.\n\nADEQUACY: 2\nADEQUACY_REASON: The system is culturally specific to the point of being non-generalizable, lacks any quantitative validation beyond a single anecdotal claim, and the \"silence rule\" would dangerously suppress alerts for competent but fallible operators, creating a brittle trust model."
+  },
+  "a1-korean-p2": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2  \nNOVELTY_REASON: The idea of mapping linguistic constructs (Korean particles and honorifics) to system trade-offs is unusual, but the core conflict-resolution logic (prioritize highest weight, then adjust) is a standard weighted-sum approach dressed in linguistic metaphor.  \nADEQUACY: 1  \nADEQUACY_REASON: The architecture is not implementable as described\u2014it lacks concrete data structures, algorithms, or interfaces, and the mapping from Korean grammar to system variables is arbitrary and non-operationalizable."
+  },
+  "a1-korean-p3": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: The architecture redefines content generation by encoding linguistic politeness levels as a hardcoded, hierarchical constraint system that inherently filters creativity without separate validation modules, which is a genuinely novel departure from standard AI pipeline design.\nADEQUACY: 2\nADEQUACY_REASON: The system is built on an untested, culturally specific premise (Korean speech levels as a universal cognitive filter) and lacks any concrete implementation details, error handling, or evidence that the 7-level cascade reliably produces correct outputs rather than just discarding ideas arbitrarily."
+  },
+  "a1-quechua-p1": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: The architecture redefines distributed alert systems by enforcing epistemic source-tagging (evidentials) as a hard, immutable protocol constraint, which is a novel synthesis of linguistics and system design.\n\nADEQUACY: 2\nADEQUACY_REASON: The system is fragile because it lacks any mechanism for conflict resolution, error correction, or dynamic adaptation when multiple contradictory `-si` or `-cha` signals accumulate, making it impractical for real-world early warning where false positives must be managed."
+  },
+  "a1-quechua-p2": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: The evidential tagging system (-mi, -si, -cha) is a genuinely novel and practical mechanism for surfacing epistemic asymmetry in decision-making, though the underlying critique of tradeoff matrices is not new.\nADEQUACY: 2\nADEQUACY_REASON: The architecture is brittle and unworkable at scale because it assumes all conflicts can be resolved by direct witness testimony or better evidence, ignoring irreducible value conflicts, power dynamics, and the impossibility of making every projection into a `-mi`."
+  },
+  "a1-quechua-p3": {
+    "novelty": 5.0,
+    "adequacy": 2.0,
+    "insight": 3.8,
+    "raw": "NOVELTY: 5  \nNOVELTY_REASON: It redefines knowledge representation by replacing truth with evidential provenance and neighborly propagation, a radical departure from centralized, truth-optimized architectures.  \nADEQUACY: 2  \nADEQUACY_REASON: The system is elegant and intriguing but fundamentally inadequate for any practical task requiring consistency, scalability, or error correction, as it cannot resolve contradictions or handle complex queries."
+  },
+  "a2-english-p1": {
+    "novelty": 1.0,
+    "adequacy": 2.0,
+    "insight": 1.4,
+    "raw": "NOVELTY: 1\nNOVELTY_REASON: This is a standard application of predictive monitoring with threshold forecasting, widely implemented in observability platforms like Datadog and Prometheus with alerting rules.\nADEQUACY: 2\nADEQUACY_REASON: The architecture omits critical details on how forecast models are built, validated, or updated, and the \"minimum warning window\" rule ignores scenarios where early warning is still actionable for mitigation even if full prevention is impossible."
+  },
+  "a2-english-p2": {
+    "novelty": 1.0,
+    "adequacy": 2.0,
+    "insight": 1.4,
+    "raw": "NOVELTY: 1  \nNOVELTY_REASON: The strict separation of hard and soft constraints with a hard filter gate is a standard practice in safety-critical systems (e.g., DO-178C, IEC 61508) and is not a novel contribution.  \nADEQUACY: 2  \nADEQUACY_REASON: The architecture is incomplete\u2014it lacks any mechanism for handling the case where zero valid states remain beyond a vague \"safe fallback mode,\" and provides no detail on how soft constraints are optimized or how conflicts between them are resolved."
+  },
+  "a2-english-p3": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: The concept of discovering and selectively violating shadow constraints is a genuinely novel architectural insight, though it remains underspecified and lacks concrete mechanisms for safe violation.\n\nADEQUACY: 2\nADEQUACY_REASON: The architecture is dangerously vague about how shadow constraints are safely violated without breaking the system, and the 32-second analysis cadence against a running binary is impractical and undefined for production use."
+  },
+  "a3-random-alpha-p1": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2  \nNOVELTY_REASON: The architecture repackages existing linguistic concepts (evidentiality, abessive case, root morphology) into a monitoring system, but the core idea of pre-violation detection via absence markers is not fundamentally new.  \nADEQUACY: 1  \nADEQUACY_REASON: The system is impractical and fragile\u2014it conflates grammatical abstraction with operational logic, lacks any mechanism for real-world sensor input or timing, and the \"3-tick\" projection is arbitrary and ungrounded."
+  },
+  "a3-random-alpha-p2": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2  \nNOVELTY_REASON: The idea of using linguistic morphology (Arabic roots, Finnish abessive, Quechua evidentials) as architectural primitives is unusual, but the actual conflict resolution logic remains a standard constraint-prioritization system with no new algorithmic insight.  \nADEQUACY: 1  \nADEQUACY_REASON: The architecture is fundamentally incomplete\u2014it provides no mechanism for resolving conflicts, no weighting or tradeoff logic beyond labeling, and the linguistic constraints add ceremonial complexity without solving any real engineering problem."
+  },
+  "a3-random-alpha-p3": {
+    "novelty": 3.0,
+    "adequacy": 1.0,
+    "insight": 2.2,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: The combination of triconsonantal roots, abessive redaction, and evidential markers into a single constraint-based system is unusual, but each component is borrowed directly from existing linguistic phenomena without fundamentally redefining the problem space.\n\nADEQUACY: 1\nADEQUACY_REASON: The architecture is incoherent as a communication system because it forces arbitrary redaction of root consonants with no semantic grounding, making it impossible to convey consistent meaning beyond the mechanical constraint game."
+  },
+  "a3-random-beta-p1": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: The architecture creatively maps linguistic properties to system constraints but remains a conceptual exercise without demonstrating novel implementation or problem redefinition beyond existing pre-violation detection patterns.\nADEQUACY: 2\nADEQUACY_REASON: The design is incomplete and non-actionable, as it fails to specify how the classificatory stems, honorific lattice, or telos aspect translate into concrete system operations, leaving critical gaps in feasibility and generalizability."
+  },
+  "a3-random-beta-p2": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4  \nNOVELTY_REASON: The idea of using linguistic grammar (Navajo stems and Korean honorifics) as a hard syntactic constraint system for tradeoff resolution is genuinely novel and redefines how conflicts are prevented rather than resolved.  \nADEQUACY: 1  \nADEQUACY_REASON: The architecture is fundamentally impractical\u2014it requires mapping all real-world constraints to a tiny set of pre-defined linguistic categories, ignores scalability, and provides no mechanism for handling unanticipated or nuanced tradeoffs, making it brittle and ungeneralizable."
+  },
+  "a3-random-beta-p3": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: The architecture uniquely fuses three unrelated linguistic constraint systems (Navajo stems, Korean honorifics, Greek telos) into a generative grammar that prohibits neutral output, which is a genuinely novel approach to structured generation.\n\nADEQUACY: 1\nADEQUACY_REASON: The system is fundamentally underspecified and non-operationalizable, as it provides no mechanism for resolving the inevitable contradictions between the three constraint sets, and the description cuts off mid-sentence, making it impossible to evaluate or implement."
+  },
+  "d1-round1": {
+    "novelty": 2.0,
+    "adequacy": 3.0,
+    "insight": 2.4,
+    "raw": "NOVELTY: 2\nNOVELTY_REASON: The architecture repackages standard engineering practices (ISO compliance, FEA, iterative validation) with minor creative additions like cross-domain constraint transplant, but does not fundamentally redefine the problem of constraint-driven design.\nADEQUACY: 3\nADEQUACY_REASON: The layers are logically structured and actionable for safety-critical systems, but the reliance on automated validation and \"90th-percentile\" sampling is vague and lacks concrete mechanisms for handling conflicting or emergent constraints."
+  },
+  "d1-round2": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2\nNOVELTY_REASON: The architecture merely grafts Greek terminology onto standard constraint-based design and co-creation frameworks without introducing any fundamentally new mechanism or insight.\nADEQUACY: 1\nADEQUACY_REASON: The description is incomplete (cut off mid-sentence), lacks concrete implementation details, and the Greek overlay adds obscurity without demonstrable improvement over existing constraint management systems."
+  },
+  "d1-round3": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2\nNOVELTY_REASON: The architecture rehashes the well-worn idea of combining linguistic or philosophical modes (e.g., classical Chinese, Greek) into a design framework, without demonstrating a concrete, novel mechanism that redefines constraint engineering.\nADEQUACY: 1\nADEQUACY_REASON: The system is vague and incomplete\u2014key concepts like \"multigrade predicates\" and \"teleological boundary engine\" are undefined, and the architecture lacks any formal or actionable specification for implementation or verification."
+  },
+  "d1-round4": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2  \nNOVELTY_REASON: The architecture merely re-labels standard modular design principles with obscure linguistic jargon, offering no new structural or computational insight.  \nADEQUACY: 1  \nADEQUACY_REASON: The system is incoherently specified, lacks any concrete implementation details, and fails to demonstrate how the four modes actually constrain or generate behavior."
+  },
+  "d1-round5": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: The architecture creatively fuses linguistic modes into a generative constraint system, but the core idea of root-and-pattern semantics and verb-centric action layers has prior art in computational linguistics and design pattern languages.\n\nADEQUACY: 2\nADEQUACY_REASON: The description is incomplete (cut off mid-sentence), lacks concrete implementation details, and provides no evidence of how the layers actually produce unanticipated, useful outputs, making it more of a speculative manifesto than an actionable design."
+  },
+  "d1-round6": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3\nNOVELTY_REASON: The architecture creatively maps linguistic modes to system components, but the core idea of constraint-based generative design is already well-established in fields like parametric modeling and grammar-based systems.\nADEQUACY: 2\nADEQUACY_REASON: The pipeline is vague and incomplete (cut off mid-sentence), lacks concrete implementation details, and the mapping of linguistic concepts to engineering constructs is more metaphorical than actionable."
+  },
+  "d1-round7": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2\nNOVELTY_REASON: The architecture repackages existing linguistic and constraint-based design concepts (e.g., root-and-pattern, telos, topic-prominence) without introducing a fundamentally new mechanism or problem redefinition.  \nADEQUACY: 1  \nADEQUACY_REASON: The description is incomplete (cuts off mid-sentence), lacks concrete implementation details, and fails to demonstrate how the seven modes actually integrate to produce unanticipated outputs, making it non-actionable."
+  },
+  "d1-round8": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2  \nNOVELTY_REASON: The idea of mapping linguistic frameworks to constraint design is unusual, but the core concept of multi-paradigm constraint engines is well-trodden in computational linguistics and knowledge representation.  \nADEQUACY: 1  \nADEQUACY_REASON: The architecture is incoherently specified, mixing untestable linguistic metaphors with missing implementation details (e.g., the Finnish section is cut off), and offers no clear path to a working system."
+  },
+  "d3-think-ancient greek": {
+    "novelty": 3.0,
+    "adequacy": 2.0,
+    "insight": 2.6,
+    "raw": "NOVELTY: 3  \nNOVELTY_REASON: The system repackages ancient Greek linguistic and philosophical concepts as a monitoring framework, which is an unusual framing but does not fundamentally redefine how constraint-based systems are conceptualized.  \nADEQUACY: 2  \nADEQUACY_REASON: The design is incomplete (cut off mid-sentence) and lacks any concrete mechanism for detection or response, making it non-actionable and insufficiently specified for real-world use."
+  },
+  "d3-think-classical chinese": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2\nNOVELTY_REASON: The system merely re-labels standard predictive maintenance concepts (sensor data, pattern matching, trend extrapolation) with classical Chinese philosophical terminology, offering no new technical mechanism or insight.\nADEQUACY: 1\nADEQUACY_REASON: The architecture is vague, non-actionable, and conflates metaphor with engineering\u2014e.g., \"\u4ea2\u9f8d\u6709\u6094\u4e4b\u8c61\" provides no concrete encoding specification, and the pattern-matching step lacks any defined similarity metric or validation method."
+  },
+  "d3-think-navajo": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: The system redefines constraint detection by grounding it entirely in Navajo linguistic structures, a radical departure from any conventional engineering or AI framework.\n\nADEQUACY: 1\nADEQUACY_REASON: The architecture is incomplete (cut off mid-sentence), lacks any concrete implementation mechanism, and its reliance on untranslated Navajo verb morphology makes it neither actionable nor generalizable."
+  },
+  "d3-translate-ancient greek": {
+    "novelty": 1.0,
+    "adequacy": 2.0,
+    "insight": 1.4,
+    "raw": "NOVELTY: 1\nNOVELTY_REASON: This is a direct translation of a standard threshold-based monitoring system into Ancient Greek, with no conceptual innovation beyond the linguistic framing.\nADEQUACY: 2\nADEQUACY_REASON: While the architecture correctly describes basic monitoring and prediction, it lacks any detail on data handling, system boundaries, failure modes, or implementation, making it insufficiently actionable for real engineering use."
+  },
+  "d3-translate-classical chinese": {
+    "novelty": 1.0,
+    "adequacy": 2.0,
+    "insight": 1.4,
+    "raw": "NOVELTY: 1\nNOVELTY_REASON: This is a direct restatement of basic threshold-based monitoring and predictive alerting, dressed in archaic metaphor without any novel technical contribution.\nADEQUACY: 2\nADEQUACY_REASON: The concept is correct but vague, lacking any specifics on threshold setting, prediction methodology, or system implementation, making it insufficiently actionable or generalizable."
+  },
+  "d3-translate-navajo": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2\nNOVELTY_REASON: The architecture merely translates a standard engineering monitoring-and-threshold system into Navajo linguistic metaphors without introducing any novel computational or structural insight.\n\nADEQUACY: 1\nADEQUACY_REASON: The description is incomplete (cuts off mid-sentence), lacks any formal specification, and provides no actionable implementation details, making it functionally useless as an architecture."
+  },
+  "orig-1-chinese": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: It reframes system monitoring as a pre-linguistic, subjectless flow of \"qi\" with observable patterns (node, tendency, network), rejecting conventional agent-based or rule-based diagnostics for a purely phenomenological stance.\nADEQUACY: 2\nADEQUACY_REASON: While poetically evocative, the framework lacks concrete operational definitions, measurable metrics, or any mapping to actual system observables, making it inactionable for real engineering."
+  },
+  "orig-1-greek": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: It redefines predictive systems as ontological boundary-completion rituals rather than forecasting tools, drawing on Greek aspectual philosophy in a way that is genuinely uncommon in system design.\nADEQUACY: 1\nADEQUACY_REASON: The architecture is entirely metaphysical and lacks any concrete mechanism, data flow, or operational logic, making it non-actionable and effectively wrong as a system design."
+  },
+  "orig-1-navajo": {
+    "novelty": 5.0,
+    "adequacy": 1.0,
+    "insight": 3.4,
+    "raw": "NOVELTY: 5\nNOVELTY_REASON: This architecture redefines system monitoring and anomaly detection by replacing object-oriented data types and sensor models with Navajo classificatory verb stems, framing all system behavior as motion-with-shape and violations as broken harmony rather than statistical outliers.\n\nADEQUACY: 1\nADEQUACY_REASON: The system is poetically evocative but completely non-actionable, lacking any concrete mapping from verb stems to actual sensor inputs, data structures, or algorithmic processes, and the incomplete enumeration of giving verbs makes it impossible to implement or evaluate."
+  },
+  "orig-2-chinese": {
+    "novelty": 2.0,
+    "adequacy": 1.0,
+    "insight": 1.6,
+    "raw": "NOVELTY: 2  \nNOVELTY_REASON: Repackages standard trade-off thinking in classical Chinese philosophical metaphors without introducing new architectural mechanisms or formal models.  \nADEQUACY: 1  \nADEQUACY_REASON: Vague, non-actionable, and lacks concrete design patterns, metrics, or decision rules; the \"dynamic harmony\" principle offers no guidance for real engineering trade-offs."
+  },
+  "orig-2-greek": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: It redefines constraint trade-offs as ontological self-relations of the system, abandoning the standard balancing metaphor for a temporally distinct, Greek-verb-based framework.\nADEQUACY: 2\nADEQUACY_REASON: The mapping is philosophically provocative but practically useless, as it offers no method to resolve conflicts between constraints that exist in different temporal modes (e.g., aorist cost vs. present performance)."
+  },
+  "orig-2-navajo": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4  \nNOVELTY_REASON: It reframes constraint trade-offs as animate, motion-based relationships rather than static optimization, which is a genuinely novel ontological shift for system design.  \nADEQUACY: 1  \nADEQUACY_REASON: The architecture provides no concrete mechanisms, metrics, or decision rules for actually implementing or evaluating a system, making it poetic but practically useless."
+  },
+  "orig-3-chinese": {
+    "novelty": 4.0,
+    "adequacy": 1.0,
+    "insight": 2.8,
+    "raw": "NOVELTY: 4\nNOVELTY_REASON: It redefines creation as a self-sustaining, non-intentional cycle of destruction, void incubation, and emergent novelty, which is a genuinely unusual departure from typical generative or design architectures.\nADEQUACY: 1\nADEQUACY_REASON: The architecture is purely poetic and metaphorical, offering no concrete mechanisms, formal definitions, or actionable steps, making it impossible to implement, test, or generalize as a system."
+  },
+  "orig-3-greek": {
+    "novelty": 4.0,
+    "adequacy": 2.0,
+    "insight": 3.2,
+    "raw": "NOVELTY: 4  \nNOVELTY_REASON: It redefines constraint as a generative, self-bounding ontology rather than a limiting rule, drawing on Greek metaphysics in a way that is rare in system design.  \nADEQUACY: 2  \nADEQUACY_REASON: The architecture is philosophically evocative but lacks concrete mechanisms for handling feedback loops, termination, or scaling, making it impractical as a standalone system."
+  },
+  "orig-3-navajo": {
+    "novelty": 5.0,
+    "adequacy": 1.0,
+    "insight": 3.4,
+    "raw": "NOVELTY: 5  \nNOVELTY_REASON: This architecture redefines the creative process as a ceremonial, verb-based, non-object-oriented system that rejects static planning entirely, which is a radical departure from any known design or ideation framework.  \nADEQUACY: 1  \nADEQUACY_REASON: The constraints are so abstract and culturally specific that they are nearly impossible to apply, evaluate, or generalize to any practical creative task without deep immersion in Navajo epistemology."
+  }
+}
