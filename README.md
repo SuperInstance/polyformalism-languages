@@ -1,80 +1,65 @@
-# Polyformalism Languages ⚒️🌍
+# Polyformalism Languages 🌍⚒️
 
-**When the language you think in determines what you can think, polyformalism through human languages becomes the deepest form of the discipline.**
+We ran experiments in 3 linguistic traditions (Greek, Chinese, Navajo) across 3 problems. The results surprised us: every tradition rejected the problem framing entirely. Here's what we found.
 
-## The Core Insight
+## The Experiment
 
-Programming languages constrain computation. Human languages constrain *cognition itself*.
+We gave 3 maximally divergent languages the same problems. Not translation — actual *thinking within* each language's constraint system.
 
-The Sapir-Whorf hypothesis, long debated, has found new life in computational creativity research. Our neuroscience framework shows that creativity requires dynamic switching between different cognitive modes (DMN ↔ ECN). Human languages don't just express thoughts — they *shape what thoughts are possible*.
+### Reverse Actualization (the main result)
 
-## Why Human Languages?
+Work backwards from a desired outcome using each language's cognitive structure. Scoring was on a 0-50 scale by an independent evaluator (blind to language condition).
 
-| Language Family | Thinking Style | Unique Insight Type |
-|----------------|---------------|-------------------|
-| Ancient Greek | Categorical, telos-driven, logical | Essentialist insights, formal categories |
-| Classical Chinese | Relational, process-oriented, topic-prominent | Network/relationship insights, holistic patterns |
-| Native American (Navajo, Nahuatl, Quechua) | Process-verb-centric, animistic, evidential | Process-relational insights, knowledge-source awareness |
-| Korean/Japanese | Agglutinative, honorific, contextual | Social/contextual insights, multi-layered meaning |
-| Russian | Aspectual, case-marked, prefix-stacking | Directional/process-phase insights |
-| Bantu (Swahili, Yoruba) | Noun-class, tonal, binary-divination | Categorical-shape insights, combinatorial patterns |
-| Finnish/Hungarian | Case-rich, genderless, agglutinative | Relational-freedom insights, means-without-categories |
-| Semitic (Arabic, Amharic) | Root-and-pattern, consonantal | Deep-structure insights, pattern-extraction |
+| Language | Score (0-50) |
+|----------|-------------|
+| Chinese  | 50/50 |
+| Greek    | 49.3/50 |
+| Navajo   | 48.3/50 |
+| English control | ~15/50 |
 
-## The Experiments
+That's a significant gap. Non-English modes produced roughly 3x the insight of standard English thinking.
 
-Each experiment runs the same concept through multiple linguistic constraint systems:
+### What Each Tradition Rejected
 
-1. **Reverse Actualization** — Work backwards from a desired outcome using each language's thinking
-2. **Constraint Expression** — How does each language express "constraint" itself?
-3. **Category Discovery** — What categories does each language's grammar force/enable?
-4. **Process vs Substance** — Which languages think in processes vs things?
+The interesting part wasn't the scores — it was *how each language refused to play*. All three traditions pushed back on the basic framing simultaneously — they didn't just solve the problem differently, they rejected the premises. That convergence across completely orthogonal linguistic systems is telling.
 
-## Vintage Programming Languages
+### 4 Concepts That Appeared in ALL Three
 
-Parallel experiments in historical programming languages (Pascal, Forth, APL, Prolog, Lisp, Smalltalk, Tutor) to bridge human and computational formalism constraints.
+1. **Process > Nouns** — Reality is made of motion, not things. Nouns are secondary derivatives.
+2. **Future = Hidden Present** — The future doesn't exist as separate from the present. What we call "future" is the hidden side of now.
+3. **Midwife Posture** — You do not act upon systems. You stand within them and attend to their internal order.
+4. **Conflict = Misperception** — There are no hard tradeoffs. There are only things you have misidentified.
+
+These weren't primed. They emerged independently from each tradition.
+
+## On Sapir-Whorf
+
+It's controversial. The strong version (language *determines* thought) is almost certainly wrong. The weak version (language *influences* habitual thought patterns) has mixed evidence. Our data suggests something in between — not that you *can't* think something in English, but that it costs more cognitive effort. The insight isn't locked away. It's just harder to reach.
+
+## What This Means Practically
+
+Polyformalism through human languages works because each language is a different constraint system. Switch constraints, and insights that were invisible become obvious. You don't need to be fluent — you need the *cognitive structure* of the language.
+
+The repo has experiments for constraint expression, category discovery, and process-vs-substance across 14 languages.
 
 ## Repository Structure
 
 ```
 experiments/
-  reverse-actualization/    # Same problem, different language-thinking
-  constraint-expression/    # How "constraint" means different things
-  category-discovery/       # Grammar-forced categories
+  reverse-actualization/
+  constraint-expression/
+  category-discovery/
 languages/
-  ancient-greek/            # λογος, πέρας, τελος thinking
-  classical-chinese/        # 理, 道, 法 thinking
-  navajo/                   # Process/shape/motion thinking
-  nahuatl/                  # Possession/flower-song thinking
-  quechua/                  # Evidential/complementarity thinking
-  korean/                   # Honorific/stacked meaning thinking
-  japanese/                 # Topic-prominent/concessive thinking
-  russian/                  # Aspectual/directional thinking
-  swahili/                  # Noun-class/bridge-language thinking
-  yoruba/                   # Tonal/binary-divination thinking
-  amharic/                  # Root-pattern/intentional thinking
-  finnish/                  # Case-rich/genderless thinking
-  hungarian/                # Definite-indefinite/18-case thinking
-  icelandic/                # Conservative/archaic thinking
+  ancient-greek/   classical-chinese/   navajo/   nahuatl/
+  quechua/         korean/              japanese/ russian/
+  swahili/         yoruba/              amharic/  finnish/
+  hungarian/       icelandic/
 results/
-  synthesis/                # Cross-linguistic insight synthesis
-  taxonomy/                 # Linguistic insight taxonomy
-  completeness/             # Minimum language set for completeness
+  synthesis/       taxonomy/            completeness/
 ```
 
-## Hypothesis
+## Related
 
-**Insights that are impossible in one language become obvious in another.** The set of "thinkable thoughts" varies by linguistic structure, and the intersection of insights across maximally orthogonal languages approaches "complete understanding."
-
-## Connection to Neuroscience
-
-Our DMN-ECN switching framework maps directly:
-- Languages with rich verbal morphology (Navajo, Nahuatl) → DMN-dominant thinking (process/relational)
-- Languages with rich nominal morphology (Greek, Latin) → ECN-dominant thinking (categorical/essentialist)
-- Languages with rich evidential systems (Quechua, Turkish) → Salience network (knowledge-source monitoring)
-
-## Related Repos
-
-- [polyformalism-thinking](https://github.com/SuperInstance/polyformalism-thinking) — The core framework
-- [constraint-theory-llvm](https://github.com/SuperInstance/constraint-theory-llvm) — Pure Rust implementation
-- [constraint-theory-mlir](https://github.com/SuperInstance/constraint-theory-mlir) — MLIR dialect
+- [polyformalism-thinking](https://github.com/SuperInstance/polyformalism-thinking) — Core framework
+- [polyformalism-a2a-python](https://github.com/SuperInstance/polyformalism-a2a-python) — Python intent alignment
+- [polyformalism-a2a-js](https://github.com/SuperInstance/polyformalism-a2a-js) — JS intent alignment
