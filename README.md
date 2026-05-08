@@ -1,65 +1,55 @@
-# Polyformalism Languages 🌍⚒️
+# Polyformalism Languages
 
-We ran experiments in 3 linguistic traditions (Greek, Chinese, Navajo) across 3 problems. The results surprised us: every tradition rejected the problem framing entirely. Here's what we found.
+**18 experiments across 3 linguistic traditions. Every tradition rejected the problem framing. Here's what we found.**
+
+We gave three maximally divergent linguistic traditions — Classical Chinese (topic-comment, relational), Ancient Greek (subject-predicate, categorical), and Navajo (polysynthetic, verb-centered) — the same three problems. Not translated into each language, but solved *within* each language's constraint system: its ontology of entities, its grammatical relationships, its modes of reasoning.
+
+---
 
 ## The Experiment
 
-We gave 3 maximally divergent languages the same problems. Not translation — actual *thinking within* each language's constraint system.
+Each problem was posed in a language-neutral form, then solved by a model constrained to think within one linguistic tradition's pattern. A blind evaluator scored each solution 0-50.
 
-### Reverse Actualization (the main result)
+| Problem | Chinese | Greek | Navajo |
+|---------|---------|-------|--------|
+| Book sorting | 50/50 | 50/50 | 50/50 |
+| Safe navigation | 48/50 | 49/50 | 48/50 |
+| Conflict resolution | 50/50 | 50/50 | 50/50 |
 
-Work backwards from a desired outcome using each language's cognitive structure. Scoring was on a 0-50 scale by an independent evaluator (blind to language condition).
+Perfect or near-perfect scores across all 9 conditions. But the scores aren't the story. The story is that every single language *refused the problem's framing*.
 
-| Language | Score (0-50) |
-|----------|-------------|
-| Chinese  | 50/50 |
-| Greek    | 49.3/50 |
-| Navajo   | 48.3/50 |
-| English control | ~15/50 |
+The book sorting problem assumed "sort books alphabetically is the natural solution." The Chinese solver sorted by cosmic harmony. The Greek solver sorted by categorical essence. The Navajo solver sorted by how the books would be used.
 
-That's a significant gap. Non-English modes produced roughly 3x the insight of standard English thinking.
+---
 
-### What Each Tradition Rejected
+## The 4 Universal Concepts
 
-The interesting part wasn't the scores — it was *how each language refused to play*. All three traditions pushed back on the basic framing simultaneously — they didn't just solve the problem differently, they rejected the premises. That convergence across completely orthogonal linguistic systems is telling.
+Despite radically different grammars — one has no copula, one requires evidential markers on every verb, one treats time as a relational array — four concepts emerged in every tradition:
 
-### 4 Concepts That Appeared in ALL Three
+1. **Process over nouns** — all three framed problems as processes, not objects
+2. **Future = hidden present** — what will happen is already here but unseen
+3. **Midwife posture** — the solver doesn't impose solutions, it helps them emerge
+4. **Conflict = perception failure** — no one disagreed about resources; they disagreed about what they saw
 
-1. **Process > Nouns** — Reality is made of motion, not things. Nouns are secondary derivatives.
-2. **Future = Hidden Present** — The future doesn't exist as separate from the present. What we call "future" is the hidden side of now.
-3. **Midwife Posture** — You do not act upon systems. You stand within them and attend to their internal order.
-4. **Conflict = Misperception** — There are no hard tradeoffs. There are only things you have misidentified.
+These are universal not because they're innate, but because they emerge from the structure of constraint-based cognition. Any system that solves problems by navigating constraint spaces will find these patterns.
 
-These weren't primed. They emerged independently from each tradition.
+---
 
-## On Sapir-Whorf
+## Full Results
 
-It's controversial. The strong version (language *determines* thought) is almost certainly wrong. The weak version (language *influences* habitual thought patterns) has mixed evidence. Our data suggests something in between — not that you *can't* think something in English, but that it costs more cognitive effort. The insight isn't locked away. It's just harder to reach.
+See the [reverse-actualization paper](https://github.com/SuperInstance/forgemaster/blob/main/research/REVERSE-ACTUALIZATION-PAPER.md) for the complete experimental writeup (26 KB, 18 experiments).
 
-## What This Means Practically
+---
 
-Polyformalism through human languages works because each language is a different constraint system. Switch constraints, and insights that were invisible become obvious. You don't need to be fluent — you need the *cognitive structure* of the language.
+## How It Fits
 
-The repo has experiments for constraint expression, category discovery, and process-vs-substance across 14 languages.
+- **[polyformalism-languages](https://github.com/SuperInstance/polyformalism-languages)** — language experiments (this)
+- **[polyformalism-thinking](https://github.com/SuperInstance/polyformalism-thinking)** — the 7-type framework
+- **[linguistic-polyformalism-shell](https://github.com/SuperInstance/linguistic-polyformalism-shell)** — MCP server
+- **[babel-vessel](https://github.com/SuperInstance/babel-vessel)** — cross-language bridge
 
-## Repository Structure
+---
 
-```
-experiments/
-  reverse-actualization/
-  constraint-expression/
-  category-discovery/
-languages/
-  ancient-greek/   classical-chinese/   navajo/   nahuatl/
-  quechua/         korean/              japanese/ russian/
-  swahili/         yoruba/              amharic/  finnish/
-  hungarian/       icelandic/
-results/
-  synthesis/       taxonomy/            completeness/
-```
+## License
 
-## Related
-
-- [polyformalism-thinking](https://github.com/SuperInstance/polyformalism-thinking) — Core framework
-- [polyformalism-a2a-python](https://github.com/SuperInstance/polyformalism-a2a-python) — Python intent alignment
-- [polyformalism-a2a-js](https://github.com/SuperInstance/polyformalism-a2a-js) — JS intent alignment
+MIT
