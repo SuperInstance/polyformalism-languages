@@ -1,5 +1,15 @@
 # Polyformalism Languages
 
+
+## Meta
+
+**Domain:** constraint-theory
+**Depends on:** —
+**Depended by:** —
+**Implements:** Human language polyformalism - Sapir-Whorf applied to creative cognition
+**Related:** —
+
+
 **18 experiments across 3 linguistic traditions. Every tradition rejected the problem framing. Here's what we found.**
 
 We gave three maximally divergent linguistic traditions — Classical Chinese (topic-comment, relational), Ancient Greek (subject-predicate, categorical), and Navajo (polysynthetic, verb-centered) — the same three problems. Not translated into each language, but solved *within* each language's constraint system: its ontology of entities, its grammatical relationships, its modes of reasoning.
